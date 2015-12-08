@@ -1,0 +1,72 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn CAT;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn CRT;
+languagesystem latn AZE;
+
+feature aalt {
+# automatic
+feature ccmp;
+feature locl;
+feature sups;
+feature frac;
+} aalt;
+
+feature ccmp {
+# automatic
+script latn;
+@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+@CombiningNonTopAccents = [cedillacomb ogonekcomb strokelongoverlaycomb strokeshortoverlaycomb];
+sub [i j]' @CombiningTopAccents by [idotless jdotless];
+sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+} ccmp;
+
+feature locl {
+# automatic
+script latn;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
+language ROM;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language MOL;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language KAZ;
+sub i by idotaccent;
+language TAT;
+sub i by idotaccent;
+language TRK;
+sub i by idotaccent;
+language CRT;
+sub i by idotaccent;
+language AZE;
+sub i by idotaccent;
+} locl;
+
+feature sups {
+# automatic
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+} sups;
+
+feature frac {
+# automatic
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+} frac;
+

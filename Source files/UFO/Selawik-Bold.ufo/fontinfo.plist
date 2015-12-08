@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>1491</integer>
+	<key>capHeight</key>
+	<integer>1434</integer>
+	<key>copyright</key>
+	<string>© 2015 Microsoft Corporation (www.microsoft.com), with Reserved Font Name Selawik. Selawik is a trademark of Microsoft Corporation in the United States and/or other countries.</string>
+	<key>descender</key>
+	<integer>-431</integer>
+	<key>familyName</key>
+	<string>Selawik</string>
+	<key>openTypeHeadCreated</key>
+	<string>2015/04/03 14:53:23</string>
+	<key>openTypeNameDesigner</key>
+	<string>Aaron Bell</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.microsoft.com/typography</string>
+	<key>openTypeNameLicense</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1.</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://opensource.org/licenses/OFL-1.1</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Microsoft Corporation</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.microsoft.com/typography</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Selawik</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Bold</string>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>3</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>MS  </string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>700</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-31</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>974</integer>
+		<integer>999</integer>
+		<integer>1434</integer>
+		<integer>1458</integer>
+		<integer>1491</integer>
+		<integer>1535</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-477</integer>
+		<integer>-431</integer>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>bold</string>
+	<key>styleName</key>
+	<string>Bold</string>
+	<key>trademark</key>
+	<string>Selawik is a trademark of the Microsoft group of companies.</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>1</integer>
+	<key>xHeight</key>
+	<integer>974</integer>
+</dict>
+</plist>

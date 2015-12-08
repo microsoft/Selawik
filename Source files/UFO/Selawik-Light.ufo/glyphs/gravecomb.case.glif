@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb.case" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="414" y="1188" type="line"/>
+      <point x="200" y="1410" type="line"/>
+      <point x="91" y="1410" type="line"/>
+      <point x="319" y="1188" type="line"/>
+    </contour>
+    <contour>
+      <point x="247" y="1516" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="369" y="974" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb.case" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="750" y="1190" type="line"/>
+      <point x="750" y="1280" type="line"/>
+      <point x="100" y="1280" type="line"/>
+      <point x="100" y="1190" type="line"/>
+    </contour>
+    <contour>
+      <point x="427" y="1731" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="415" y="974" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

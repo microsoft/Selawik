@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb" format="1">
+  <advance width="817"/>
+  <unicode hex="0308"/>
+  <outline>
+    <component base="dieresis"/>
+    <contour>
+      <point x="412" y="1329" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="410" y="974" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

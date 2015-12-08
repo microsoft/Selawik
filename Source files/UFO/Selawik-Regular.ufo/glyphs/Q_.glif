@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="1">
+  <advance width="1544"/>
+  <unicode hex="0051"/>
+  <outline>
+    <contour>
+      <point x="1517" y="-203" type="line"/>
+      <point x="1325" y="-159"/>
+      <point x="1165" y="-34"/>
+      <point x="1077" y="140" type="curve"/>
+      <point x="932" y="20" type="line"/>
+      <point x="1043" y="-170"/>
+      <point x="1223" y="-309"/>
+      <point x="1426" y="-361" type="curve"/>
+    </contour>
+    <component base="O"/>
+    <contour>
+      <point x="772" y="1434" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="772" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

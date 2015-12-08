@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb" format="1">
+  <advance width="574"/>
+  <unicode hex="030A"/>
+  <outline>
+    <component base="ring" yOffset="-30"/>
+    <contour>
+      <point x="290" y="1564" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="288" y="974" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

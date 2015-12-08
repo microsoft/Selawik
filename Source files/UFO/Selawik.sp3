@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="2">
+    <!-- Superpolator Designspace Object -->
+    <!-- info -->
+    <version superpolator="2"/>
+    <!-- measurements -->
+    <!-- application data -->
+    <data name="horizontalPreviewAxis" value="weight"/>
+    <data name="lineViewFilled" value="True"/>
+    <data name="lineStacked" value="sequence"/>
+    <data name="generateFontsAtFolder" value="instances"/>
+    <data name="previewtext" value="Superpolator3"/>
+    <data name="verticalPreviewAxis" value="None"/>
+    <!-- don't generate these glyphs -->
+    <ignore glyphs=""/>
+    <!-- axis definitions -->
+    <axis initialvalue="300.000000" maximum="700.000000" minimum="300.000000" name="weight" shortname="wt">
+        <color a="1.000" b="0.764" g="0.000" r="0.989"/>
+    </axis>
+    <!-- master definitions -->
+    <master familyname="Selawik" filename="/Users/aaronbell/Desktop/Selawik Release/Selawik-Regular.ufo" stylename="Regular">
+        <location>
+            <dimension name="weight" xvalue="400.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Selawik" filename="/Users/aaronbell/Desktop/Selawik Release/Selawik-Light.ufo" stylename="Light">
+        <location>
+            <dimension name="weight" xvalue="300.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Selawik" filename="/Users/aaronbell/Desktop/Selawik Release/Selawik-Bold.ufo" stylename="Bold">
+        <location>
+            <dimension name="weight" xvalue="700.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <!-- instance definitions -->
+    <instance familyname="Selawik" stylename="Semilight">
+        <location>
+            <dimension name="weight" xvalue="350.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+    </instance>
+    <instance familyname="Selawik" stylename="Semibold">
+        <location>
+            <dimension name="weight" xvalue="600.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+    </instance>
+</designspace>

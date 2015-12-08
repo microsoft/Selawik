@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="1">
+  <advance width="420"/>
+  <unicode hex="013E"/>
+  <outline>
+    <component base="l"/>
+    <component base="caroncomb.alt" xOffset="365" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=l</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb" format="1">
+  <advance width="766"/>
+  <unicode hex="030C"/>
+  <outline>
+    <component base="caron"/>
+    <contour>
+      <point x="392" y="1524" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="390" y="974" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

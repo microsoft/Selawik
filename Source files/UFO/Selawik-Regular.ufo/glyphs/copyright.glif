@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="copyright" format="1">
+  <advance width="1823"/>
+  <unicode hex="00A9"/>
+  <outline>
+    <contour>
+      <point x="1325" y="-33"/>
+      <point x="1661" y="302"/>
+      <point x="1661" y="717" type="curve" smooth="yes"/>
+      <point x="1661" y="1132"/>
+      <point x="1325" y="1467"/>
+      <point x="912" y="1467" type="curve" smooth="yes"/>
+      <point x="497" y="1467"/>
+      <point x="162" y="1132"/>
+      <point x="162" y="717" type="curve" smooth="yes"/>
+      <point x="162" y="302"/>
+      <point x="497" y="-33"/>
+      <point x="912" y="-33" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="569" y="106"/>
+      <point x="310" y="369"/>
+      <point x="310" y="717" type="curve" smooth="yes"/>
+      <point x="310" y="1066"/>
+      <point x="569" y="1329"/>
+      <point x="913" y="1329" type="curve" smooth="yes"/>
+      <point x="1255" y="1329"/>
+      <point x="1513" y="1066"/>
+      <point x="1513" y="717" type="curve" smooth="yes"/>
+      <point x="1513" y="369"/>
+      <point x="1255" y="106"/>
+      <point x="912" y="106" type="curve" smooth="yes"/>
+    </contour>
+    <component base="c" xOffset="438" yOffset="295" xScale="0.866" yScale="0.866"/>
+  </outline>
+</glyph>

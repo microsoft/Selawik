@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb.case" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="ringcomb" yOffset="181"/>
+    <contour>
+      <point x="280" y="1679" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="279" y="1144" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

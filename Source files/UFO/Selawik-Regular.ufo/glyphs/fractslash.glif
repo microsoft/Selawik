@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fractslash" format="1">
+  <advance width="1950"/>
+  <outline>
+    <contour>
+      <point x="1465" y="1412" type="line"/>
+      <point x="1322" y="1472" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="591" y="-60" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

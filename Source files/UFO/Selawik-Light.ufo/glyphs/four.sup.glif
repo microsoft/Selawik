@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.sup" format="1">
+  <advance width="1513"/>
+  <outline>
+    <contour>
+      <point x="1349" y="-1" type="line"/>
+      <point x="1349" y="176" type="line"/>
+      <point x="1468" y="176" type="line"/>
+      <point x="1468" y="256" type="line"/>
+      <point x="1349" y="256" type="line"/>
+      <point x="1349" y="853" type="line"/>
+      <point x="1239" y="854" type="line"/>
+      <point x="872" y="268" type="line"/>
+      <point x="872" y="176" type="line"/>
+      <point x="1267" y="176" type="line"/>
+      <point x="1267" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="1267" y="754" type="line"/>
+      <point x="1267" y="256" type="line"/>
+      <point x="961" y="256" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

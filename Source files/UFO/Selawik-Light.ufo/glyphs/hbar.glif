@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar" format="1">
+  <advance width="1096"/>
+  <unicode hex="0127"/>
+  <outline>
+    <component base="h"/>
+    <component base="strokeshortoverlaycomb" xOffset="-68" yOffset="630"/>
+  </outline>
+</glyph>

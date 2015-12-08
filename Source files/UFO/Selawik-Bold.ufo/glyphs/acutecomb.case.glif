@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb.case" format="1">
+  <advance width="621"/>
+  <outline>
+    <contour>
+      <point x="323" y="1186" type="line"/>
+      <point x="606" y="1419" type="line"/>
+      <point x="235" y="1419" type="line"/>
+      <point x="5" y="1186" type="line"/>
+    </contour>
+    <contour>
+      <point x="228" y="1509" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="169" y="974" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

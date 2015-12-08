@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="1">
+  <advance width="420"/>
+  <unicode hex="006C"/>
+  <outline>
+    <contour>
+      <point x="256" y="0" type="line"/>
+      <point x="256" y="1516" type="line"/>
+      <point x="164" y="1516" type="line"/>
+      <point x="164" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="487" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="210" y="1394" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="400" y="1057" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="210" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>SegoeUI</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <integer>0</integer>
+                  <key>x</key>
+                  <integer>330</integer>
+                  <key>y</key>
+                  <integer>1516</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <integer>0</integer>
+                  <key>x</key>
+                  <integer>166</integer>
+                  <key>y</key>
+                  <integer>1516</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <integer>0</integer>
+                  <key>x</key>
+                  <integer>166</integer>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <integer>0</integer>
+                  <key>x</key>
+                  <integer>330</integer>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>l</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>496</integer>
+        </dict>
+        <key>guidelines</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>l</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>496</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

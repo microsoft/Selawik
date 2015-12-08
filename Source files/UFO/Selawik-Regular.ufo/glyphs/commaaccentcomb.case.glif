@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb.case" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="273" y="-382"/>
+      <point x="316" y="-242"/>
+      <point x="316" y="-125" type="curve"/>
+      <point x="156" y="-125" type="line"/>
+      <point x="156" y="-235"/>
+      <point x="139" y="-297"/>
+      <point x="89" y="-407" type="curve"/>
+      <point x="206" y="-477" type="line"/>
+    </contour>
+    <contour>
+      <point x="235" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="180" y="-617" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

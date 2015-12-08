@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb" format="1">
+  <advance width="610"/>
+  <unicode hex="0306"/>
+  <outline>
+    <component base="breve"/>
+    <contour>
+      <point x="307" y="1423" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="305" y="974" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>
