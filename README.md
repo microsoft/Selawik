@@ -10,8 +10,8 @@ Selawik is an open source replacement for Segoe UI.
 ## File format
 The original multiple-master source files are in the [Glyphs][] editor format.
 Conversion to UFO is provided with designspace files that define the
-interpolation points. If you do not wish to purchase Glyphs, try performing
-the interconversion with [GlyphsLib][].
+interpolation points. If you don't have access to Glyphs, try using
+[GlyphsLib][] for interconversion.
 
   [Glyphs]: https://glyphsapp.com
   [GlyphsLib]: https://github.com/googlefonts/glyphsLib
